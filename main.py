@@ -1,7 +1,6 @@
 from pyrogram import Client, filters
 from decouple import config
 from pyrogram.types import Message
-from autocorrect import Speller
 import logging
 import ai_api
 import os
