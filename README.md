@@ -5,7 +5,7 @@ ollama run llama3.1
 ```
 так же нужно установить python библиотеки
 ```
-pip install pyrogram decouple
+pip install pyrogram python-decouple
 ```
 ещё нужно сделать файлы с названием `.env` который содержит
 ```
