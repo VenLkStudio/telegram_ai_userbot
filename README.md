@@ -19,4 +19,4 @@ LOGIN=telegram login
 
 URL_OLLAMA=localhost
 ```
-если вы будете сервер на котором установлена ollama то настройте его по [этому гайду](https://github.com/ollama/ollama/blob/main/docs/faq.md) и вставьте ip адрес сервера ollama'ы в `URL_OLLAMA`
+если вы будете использовать сервер на котором установлена ollama то настройте его по [этому гайду](https://github.com/ollama/ollama/blob/main/docs/faq.md) и вставьте ip адрес сервера ollama'ы в `URL_OLLAMA`
